@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="source">Source</string>
+    <string name="news_image">News image</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="main_page">Main page</string>
+    <string name="no_favourite_news">No favorite news</string>
+    <string name="delete_from_favorite">Delete from favorite</string>
+    <string name="save_to_favorite">Save to favorite</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="unknown">Unknown</string>
+    <string name="no_title">No Title</string>
+    <string name="article_not_founded">Article not found for ID</string>
+    <string name="by">By</string>
+
+    <string-array name="news_categories">
+        <item>general</item>
+        <item>technology</item>
+        <item>business</item>
+        <item>science</item>
+        <item>entertainment</item>
+        <item>health</item>
+        <item>sports</item>
+    </string-array>
+</resources>
